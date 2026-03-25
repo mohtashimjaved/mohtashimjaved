@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 - 🔭 I’m currently working on high-performance web applications using the **MERN Stack**.
-- 🌱 I’m currently learning **Advanced Backend Architecture and AWS**.
+- 🌱 I’m currently learning **Advanced Backend Architecture**.
 - 👯 I’m looking to collaborate on **Open Source MERN Projects**.
 - 💬 Ask me about **React Hooks, Redux, JWT Authentication, and MongoDB Aggregations**.
 - 📫 How to reach me: **hafizmohtashim3157@gmail.com**
